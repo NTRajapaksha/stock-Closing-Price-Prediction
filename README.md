@@ -1,6 +1,7 @@
 # Stock Closing Price Prediction
 
-This project leverages a Long Short-Term Memory (LSTM) neural network to predict the closing prices of stocks for three major brands: Google, Apple, and Samsung. By analyzing historical stock prices, the model aims to provide insights into the behavior of the stock market.
+This project leverages a Long Short-Term Memory (LSTM) neural network to predict the closing prices of stocks for three major brands: Google, Apple, and Samsung. 
+By analyzing historical stock prices, the model aims to provide insights into the behavior of the stock market.
 
 🔧 Technologies Used
 Python
