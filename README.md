@@ -5,7 +5,7 @@ This project leverages a Long Short-Term Memory (LSTM) neural network to predict
 
 By analyzing historical stock prices, the model aims to provide insights into the behavior of the stock market.
 
-🔧 Technologies Used
+## 🔧 Technologies Used
 
 Python
 
@@ -13,7 +13,7 @@ TensorFlow
 
 Streamlit
 
-🌟 Features
+## 🌟 Features
 
 Streamlit Web Interface: A user-friendly web interface built with Streamlit to display functionalities for each brand.
 
@@ -22,10 +22,11 @@ Interactive Plots: Visualize moving average values and predictions for each stoc
 Comparison Table: Compare actual historical closing prices with predicted values to evaluate model accuracy.
 
 
-🎯 Purpose
+## 🎯 Purpose
 
-The project is designed to provide a deeper understanding of stock market trends by analyzing past stock prices and predicting future closing prices.
+The project is designed to provide a deeper understanding of stock market trends by analyzing past stock prices and predicting future closing prices. 
 
+## Outcome:
 Final report of the project also included in the repository.
 
 
